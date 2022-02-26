@@ -4,6 +4,10 @@
   <remote  name="radiant"
            fetch="https://github.com/ProjectRadiant" 
            revision="twelve" />
+  
+  <remote  name="radiant_two"
+           fetch="https://github.com/radiantOS" 
+           revision="twelve" />
 
     <remote  name="RadiantDevices"
            fetch="https://github.com/RadiantDevices" 
