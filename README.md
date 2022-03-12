@@ -1,4 +1,4 @@
-# Project Radiant #
+# Relight #
 
 ### Sync ###
 
@@ -39,10 +39,11 @@ You SHOULD as a responsible builder adapt your trees if your device settings loo
 ```
 
 # Credits
+* Project Radiant for pretty much everything.
 * LineageOS for vendor and much more.
 * ArrowOS who we track our hals from.
 * ProtonAOSP for CTS and other patches.
 * And everyone we have cherry picked from, Thank you so much! 
 
 # Apply for Official # 
-If you would like to apply for official, then feel free to take a look [here](https://github.com/ProjectRadiant/official_devices).
+We aren't currently accepting maintainers.

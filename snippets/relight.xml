@@ -5,8 +5,8 @@
            fetch="https://github.com/ProjectRadiant" 
            revision="twelve" />
   
-  <remote  name="radiant_two"
-           fetch="https://github.com/radiantOS" 
+  <remote  name="relight"
+           fetch="https://github.com/relightOS" 
            revision="twelve" />
 
     <remote  name="RadiantDevices"
@@ -59,11 +59,11 @@
   <!-- Packages -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="radiant" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="radiant" />
-  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="radiant_two" />
-  <project path="packages/apps/Themer" name="packages_apps_Themer" remote="radiant_two" />
-  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="radiant_two" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="radiant_two" />
-  <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="radiant_two" />
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="relight" />
+  <project path="packages/apps/Themer" name="packages_apps_Themer" remote="relight" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="relight" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="relight" />
+  <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="relight" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="radiant" />
 
   <!-- Hardware -->
@@ -89,8 +89,8 @@
 
   <!-- Vendor -->
   <project path="vendor/support" name="vendor_support" remote="radiant"/>
-  <project path="vendor/radiant" name="vendor_radiant" remote="radiant_two"/>
-  <project path="vendor/rdntextras" name="vendor_rdntextras" remote="radiant_two"/>
+  <project path="vendor/radiant" name="vendor_radiant" remote="relight"/>
+  <project path="vendor/rdntextras" name="vendor_rdntextras" remote="relight"/>
   <project path="vendor/gms" name="android_vendor_gms" remote="gitlab" clone-depth="1" />
 
 </manifest>

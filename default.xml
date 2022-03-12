@@ -1106,8 +1106,8 @@
   <!-- Remove repos -->
   <include name="snippets/remove.xml"/>
 
-  <!-- Radiant repos -->
-  <include name="snippets/radiant.xml"/>
+  <!-- Relight repos -->
+  <include name="snippets/relight.xml"/>
 
   <!-- External repos -->
   <include name="snippets/external.xml"/>
