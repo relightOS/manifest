@@ -1112,4 +1112,7 @@
   <!-- External repos -->
   <include name="snippets/external.xml"/>
 
+  <!-- Extra apps -->
+  <project path="packages/apps/GugalPrebuilt" name="packages_apps_GugalPrebuilt" remote="relight" />
+
 </manifest>
