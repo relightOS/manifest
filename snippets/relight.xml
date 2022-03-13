@@ -53,7 +53,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="radiant" />
-  <project path="frameworks/base" name="frameworks_base" remote="radiant" />
+  <project path="frameworks/base" name="frameworks_base" remote="relight" />
   <project path="frameworks/native" name="frameworks_native" remote="radiant" />
 
   <!-- Packages -->
