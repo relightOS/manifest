@@ -89,7 +89,7 @@
 
   <!-- Vendor -->
   <project path="vendor/support" name="vendor_support" remote="radiant"/>
-  <project path="vendor/radiant" name="vendor_radiant" remote="relight"/>
+  <project path="vendor/relight" name="vendor_relight" remote="relight"/>
   <project path="vendor/rdntextras" name="vendor_rdntextras" remote="relight"/>
   <project path="vendor/gms" name="android_vendor_gms" remote="gitlab" clone-depth="1" />
 
