@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <remote  name="relight"
+           fetch="https://github.com/relightOS" 
+           revision="twelve" />
+
+  <project path="packages/apps/GugalSearch" name="packages_apps_GugalSearch" remote="relight" />
+
+</manifest>
